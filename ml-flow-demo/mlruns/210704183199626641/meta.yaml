@@ -1,6 +1,0 @@
-artifact_location: file:///Users/aniruddha/Desktop/ml-flow-demo/mlruns/210704183199626641
-creation_time: 1735383691560
-experiment_id: '210704183199626641'
-last_update_time: 1735383691560
-lifecycle_stage: active
-name: Simple Linear Regression - Optuna
