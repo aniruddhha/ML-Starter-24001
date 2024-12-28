@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aniruddha/Desktop/ml-flow-demo/mlruns/210704183199626641/78e1dabbceb24724b772c6700d6d7fe5/artifacts
+end_time: 1735383705452
+entry_point_name: ''
+experiment_id: '210704183199626641'
+lifecycle_stage: active
+run_id: 78e1dabbceb24724b772c6700d6d7fe5
+run_name: smiling-fawn-677
+run_uuid: 78e1dabbceb24724b772c6700d6d7fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735383703963
+status: 3
+tags: []
+user_id: aniruddha

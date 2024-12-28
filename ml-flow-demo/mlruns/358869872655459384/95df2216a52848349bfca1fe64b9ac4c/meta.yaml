@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aniruddha/Desktop/ml-flow-demo/mlruns/358869872655459384/95df2216a52848349bfca1fe64b9ac4c/artifacts
+end_time: 1735381589934
+entry_point_name: ''
+experiment_id: '358869872655459384'
+lifecycle_stage: active
+run_id: 95df2216a52848349bfca1fe64b9ac4c
+run_name: marvelous-horse-994
+run_uuid: 95df2216a52848349bfca1fe64b9ac4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735381587191
+status: 3
+tags: []
+user_id: aniruddha

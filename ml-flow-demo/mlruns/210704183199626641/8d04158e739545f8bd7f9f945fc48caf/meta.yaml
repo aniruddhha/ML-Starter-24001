@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aniruddha/Desktop/ml-flow-demo/mlruns/210704183199626641/8d04158e739545f8bd7f9f945fc48caf/artifacts
+end_time: 1735383699557
+entry_point_name: ''
+experiment_id: '210704183199626641'
+lifecycle_stage: active
+run_id: 8d04158e739545f8bd7f9f945fc48caf
+run_name: useful-yak-635
+run_uuid: 8d04158e739545f8bd7f9f945fc48caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735383698043
+status: 3
+tags: []
+user_id: aniruddha
